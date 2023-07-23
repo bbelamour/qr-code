@@ -9,12 +9,6 @@ body {
        background-color:hsl(212, 45%, 89%);
      }
      
-.box-position {
-    position: relative;
-    text-align: center;
-    
-    
-}
 
 .caja {  
             background-color: hsl(0, 0%, 100%);
