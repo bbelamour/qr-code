@@ -16,7 +16,7 @@ body {
             width: 300px;
             border: 1px solid hsl(212, 45%, 89%);
             padding: 20px;
-            margin: 300px auto auto auto ;
+            margin: 300px auto;
             border-radius: 30px;
 }   
 img {
