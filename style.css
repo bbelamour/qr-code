@@ -24,12 +24,7 @@ body {
 }
 
 img {
-    /*     position: relative; */
-    width: 300px;
-    border-radius: 30px;
-}
-img {
-    position: relative;
+    
     width: 300px;
     border-radius: 30px;
 }
